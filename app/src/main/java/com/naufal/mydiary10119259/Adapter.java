@@ -1,5 +1,12 @@
 //package com.naufal.mydiary10119259;
 //
+
+/*
+* Naufal Daffa Ilyasa
+* 10119259
+* IF7
+* */
+
 //import android.content.Context;
 //import android.content.Intent;
 //import android.util.Log;
