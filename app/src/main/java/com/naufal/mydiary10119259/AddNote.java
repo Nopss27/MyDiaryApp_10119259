@@ -1,5 +1,12 @@
 //package com.naufal.mydiary10119259;
 //
+
+/*
+* Naufal Daffa Ilyasa
+* 10119259
+* IF7
+* */
+
 //import androidx.annotation.NonNull;
 //import androidx.appcompat.app.AppCompatActivity;
 //import androidx.appcompat.widget.Toolbar;
